@@ -1,0 +1,17 @@
+{
+  "searchPlaceholder": "Search products...",
+  "price": "Price",
+  "about": "About",
+  "contact": "Contact",
+  "privacy": "Privacy",
+  "search": "Search",
+  "products": {
+    "iphone15": "iPhone 15",
+    "macbookPro": "MacBook Pro",
+    "airpodsPro": "AirPods Pro",
+    "appleWatch": "Apple Watch",
+    "ipadAir": "iPad Air",
+    "iphone16": "iPhone 16",
+    "iphone17": "iPhone 17"
+  }
+}

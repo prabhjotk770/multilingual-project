@@ -1,0 +1,18 @@
+
+{
+"searchPlaceholder": "Buscar productos...",
+  "price": "Precio",
+  "about": "Acerca de",
+  "contact": "Contacto",
+  "privacy": "Privacidad",
+  "search": "Buscar",
+  "products": {
+    "iphone15": "iPhone 15 (Teléfono)",
+    "macbookPro": "MacBook Pro (Portátil)",
+    "airpodsPro": "AirPods Pro (Auriculares)",
+    "appleWatch": "Reloj Apple",
+    "ipadAir": "iPad Air (Tableta)",
+    "iphone16": "iPhone 16 (Teléfono)",
+    "iphone17": "iPhone 17 (Teléfono)"
+  }
+}

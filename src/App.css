@@ -1,0 +1,84 @@
+html,
+body,
+#root {
+  height: 100%;
+}
+
+.app-layout {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1;
+}
+
+/* Header */
+.navbar {
+  background-color: #ffffff !important;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.navbar-brand {
+  width: 40px;
+  height: 40px;
+}
+
+/* Search */
+.search-input {
+  border-radius: 12px;
+  padding: 12px;
+}
+
+.search-btn {
+  border-radius: 12px;
+  background-color: #1d1d1f;
+  border: none;
+}
+
+.search-btn:hover {
+  background-color: #000;
+}
+
+/* Product Cards */
+.apple-card {
+  background-color: #ffffff;
+  border-radius: 18px;
+  padding: 24px;
+  text-align: center;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.06);
+  transition: transform 0.2s ease;
+}
+
+.apple-card:hover {
+  transform: translateY(-4px);
+}
+
+.apple-card img {
+  width: 140px;
+  height: auto;
+  margin-bottom: 16px;
+}
+
+.apple-card h5 {
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+
+.apple-card p {
+  color: #6e6e73;
+  font-size: 14px;
+}
+
+/* Footer */
+.footer-link {
+  color: #6e6e73;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.footer-link:hover {
+  text-decoration: underline;
+  color: #1d1d1f;
+}
